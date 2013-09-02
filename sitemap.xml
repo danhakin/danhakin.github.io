@@ -2,18 +2,22 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://danhakin.github.io/blog/2013/09/01/el-genesis/</loc>
-        <lastmod>2013-09-01T23:59:10+02:00</lastmod>
+        <lastmod>2013-09-03T00:15:32+02:00</lastmod>
+    </url>
+    <url>
+        <loc>http://danhakin.github.io/blog/2013/09/02/publicar-el-blog-con-octopress/</loc>
+        <lastmod>2013-09-03T00:16:25+02:00</lastmod>
     </url>
     <url>
         <loc>http://danhakin.github.io/blog/archives/</loc>
-        <lastmod>2013-09-01T23:59:10+02:00</lastmod>
+        <lastmod>2013-09-03T00:16:25+02:00</lastmod>
     </url>
     <url>
         <loc>http://danhakin.github.io/</loc>
-        <lastmod>2013-09-01T23:59:10+02:00</lastmod>
+        <lastmod>2013-09-03T00:16:25+02:00</lastmod>
     </url>
     <url>
         <loc>http://danhakin.github.io/robots.txt</loc>
-        <lastmod>2013-05-20T15:42:30+02:00</lastmod>
+        <lastmod>2013-09-03T00:08:14+02:00</lastmod>
     </url>
 </urlset>
